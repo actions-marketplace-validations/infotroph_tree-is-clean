@@ -1,3 +1,11 @@
+## [1.0.6], 2024-04-04
+
+* Bump unidici to 5.28.4.
+
+## [1.0.5], 2023-11-30
+
+* Fix broken release by packaging the right file.
+
 ## [1.0.4], 2023-11-30
 
 * Update to Node 20 and Typescript 5, with bumps to almost every dependency.
